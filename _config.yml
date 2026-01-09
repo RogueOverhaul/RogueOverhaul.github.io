@@ -1,0 +1,5 @@
+remothe_theme: pages-themes/hacker@v0.2.0
+pligins:
+- jekill-remote-theme 
+title: Erick Espinoza
+description: Website Portfolio 
